@@ -15,8 +15,7 @@ while True:
     user="username",
     password="password",
     database="numbers",
-    port=3306,
-    socket='/var/run/mysqld/mysqld.sock'
+    port=3306
     )
     mycursor = mysqldb.cursor()
     mycursor.execute("SELECT * FROM numbers.nums")
