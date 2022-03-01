@@ -1,0 +1,61 @@
+version: '3.3'
+services:
+
+  mongo-db:
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USER: 'root'
+      MONGO_INITDB_DATABASE: analytics
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo-data:/data.db
+
+  mysql:
+    build: ./mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_USER: 'root'
+      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_DATABASE: 'numbers'
+    ports:
+      - '3306:3306'
+    command: --init-file /init.sql
+    depends_on:
+      - mongo-db
+    volumes: 
+      - mysql-data:/var/lib/mysql
+      - ./init.sql:/init.sql
+  
+  analytics:
+    build: ./analytics
+    ports:
+      - 3003
+    depends_on:
+      - mysql
+      - mongo-db
+
+  appy:
+    build:
+      dockerfile: ./appy/Dockerfile
+    environment:
+      MYSQL_ROOT_USER: 'root'
+      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_DATABASE: 'numbers'
+    depends_on:
+      - mysql
+      - mongo-db
+      - analytics
+    ports:
+      - 3001
+
+volumes:
+  mysql-data:
+  init.sql:
+  mongo-data:
+
+networks: 
+  default: 
+    external: 
+      name: projecttest

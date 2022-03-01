@@ -1,0 +1,30 @@
+{
+    "name": "reminderlist",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "http",
+    "dependencies": {
+      "body-parser": "^1.19.2",
+      "cookie-session": "^1.4.0",
+      "ejs": "^2.5.5",
+      "express": "^4.17.3",
+      "express-ejs-layouts": "^2.5.1",
+      "method-override": "^2.3.7",
+      "mongodb": "^4.4.0",
+      "mongoose": "^4.13.21",
+      "mysql": "^2.18.1",
+      "nodemon": "^1.11.0"
+    }
+  }
+  

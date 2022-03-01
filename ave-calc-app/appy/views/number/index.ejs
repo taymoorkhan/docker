@@ -1,0 +1,11 @@
+<div class="container">
+  <h1 class="page-header">Numbers</h1>
+  <a href="/numbers/delete">DELETE ALL</a>
+  <ul class="list-group">
+    <% numbers.forEach(numberItem => { %>
+    <li class="list-group-item">
+      <strong><%= numberItem.numbers %> </strong>
+    </li>
+    <% }) %>
+  </ul>
+</div>

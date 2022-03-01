@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:editFeature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4ed71a9-23d6-4523-b73d-83d18e6cf86c" name="Default Changelist" comment="Fixed login feature and dynamic reminders">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kDYEdmqPr7kh1lyZnzzk1WIGpx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ed71a9-23d6-4523-b73d-83d18e6cf86c" name="Default Changelist" comment="" />
+      <created>1605236518726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605236518726</updated>
+      <workItem from="1605236519818" duration="2807000" />
+      <workItem from="1605557269876" duration="293000" />
+      <workItem from="1605557701279" duration="1944000" />
+      <workItem from="1605559803382" duration="896000" />
+      <workItem from="1605560733677" duration="490000" />
+      <workItem from="1605721465799" duration="1310000" />
+      <workItem from="1605749665980" duration="443000" />
+      <workItem from="1605810277798" duration="2210000" />
+      <workItem from="1605813834276" duration="4447000" />
+      <workItem from="1605846380135" duration="499000" />
+      <workItem from="1605904625488" duration="4714000" />
+      <workItem from="1605909901423" duration="10000" />
+      <workItem from="1605910204130" duration="12160000" />
+      <workItem from="1605928045134" duration="195000" />
+      <workItem from="1606021650991" duration="256000" />
+      <workItem from="1606023125129" duration="380000" />
+      <workItem from="1606254497452" duration="278000" />
+      <workItem from="1606325477795" duration="1495000" />
+      <workItem from="1606412743528" duration="13843000" />
+      <workItem from="1606450321387" duration="103000" />
+      <workItem from="1606510899342" duration="7072000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fixed login feature and dynamic reminders">
+      <created>1606423530987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606423530987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                        <option value="origin/updatedStarterCode" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed login feature and dynamic reminders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed login feature and dynamic reminders" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="87" y="74" width="2376" height="1216" key="DiffContextDialog" timestamp="1606423671101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="87" y="74" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606423671101" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1606451010467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513392" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605236576725" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606451010467" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1606451010467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513391" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605236576722" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606451010467" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1606451010467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513391" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605236576721" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606451010467" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1606451010467">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513392" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605236576724" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606451010467" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606423659528">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606423659528" />
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606449725133">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-3840.-557.2560.1359@0.0.2560.1400" timestamp="1606449725133" />
+    <state x="-243" y="-987" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605725235580">
+      <screen x="-264" y="-1055" width="1920" height="1055" />
+    </state>
+    <state x="-243" y="-987" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.820/-264.-1055.1920.1055@-264.-1055.1920.1055" timestamp="1605725235580" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605924710276">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513392" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605924710276" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605924710274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513391" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605924710274" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605924710271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513391" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605924710271" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605924710275">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239513392" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605924710275" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1605922780878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605922780878" />
+    <state x="420" y="170" key="git4idea.branch.GitSmartOperationDialog" timestamp="1605239508208">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="170" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900/-264.-1057.1920.1057@0.0.1440.900" timestamp="1605239508208" />
+  </component>
+</project>
